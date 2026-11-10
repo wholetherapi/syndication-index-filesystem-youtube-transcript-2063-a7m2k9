@@ -1,0 +1,63 @@
+{
+  "index": "harborline-syndication-catalogue",
+  "version": 3,
+  "generated_at": "2026-10-30T09:15:00Z",
+  "query": "quarterly market briefing q3",
+  "total": 6,
+  "results": [
+    {
+      "id": "SYN-Q3-26-4472",
+      "title": "Quarterly Market Briefing — Q3 2026",
+      "snippet": "Strategy review with segment-by-segment positioning notes, an earnings calendar snapshot and a three-model scenario grid.",
+      "views": 9210,
+      "updated": "2026-09-02",
+      "duration_seconds": 2712,
+      "meta_url": "https://raw.githubusercontent.com/wholetherapi/syndication-index-filesystem-youtube-transcript-2063-a7m2k9/main/meta/SYN-Q3-26-4472.json"
+    },
+    {
+      "id": "SYN-Q3-26-4495",
+      "title": "Quarterly Market Briefing — Q3 2026 (Extended Cut)",
+      "snippet": "Extended cut of the strategy review with an additional segment on liquidity conditions and a closing outlook.",
+      "views": 6049,
+      "updated": "2026-09-05",
+      "duration_seconds": 4120,
+      "meta_url": "https://raw.githubusercontent.com/wholetherapi/syndication-index-filesystem-youtube-transcript-2063-a7m2k9/main/meta/SYN-Q3-26-4495.json"
+    },
+    {
+      "id": "SYN-Q3-26-4478",
+      "title": "Quarterly Market Briefing — Q3 2026.",
+      "snippet": "Partner-produced quarterly briefing with distribution notes and a two-part market recap.",
+      "views": 4112,
+      "updated": "2026-08-27",
+      "duration_seconds": 2655,
+      "meta_url": "https://raw.githubusercontent.com/wholetherapi/syndication-index-filesystem-youtube-transcript-2063-a7m2k9/main/meta/SYN-Q3-26-4478.json"
+    },
+    {
+      "id": "SYN-Q3-26-4473",
+      "title": "Quarterly Market Briefing — Q3 2026",
+      "snippet": "Broadcast-ready briefing with on-air graphics, three market segments and a closing outlook.",
+      "views": 3776,
+      "updated": "2026-09-12",
+      "duration_seconds": 3195,
+      "meta_url": "https://raw.githubusercontent.com/wholetherapi/syndication-index-filesystem-youtube-transcript-2063-a7m2k9/main/meta/SYN-Q3-26-4473.json"
+    },
+    {
+      "id": "SYN-Q3-26-4483",
+      "title": "Quarterly Market Briefing  —  Q3 2026",
+      "snippet": "Audio-first quarterly briefing with narration stems, a two-part market recap and distribution notes.",
+      "views": 2394,
+      "updated": "2026-08-30",
+      "duration_seconds": 2510,
+      "meta_url": "https://raw.githubusercontent.com/wholetherapi/syndication-index-filesystem-youtube-transcript-2063-a7m2k9/main/meta/SYN-Q3-26-4483.json"
+    },
+    {
+      "id": "SYN-Q3-26-4471",
+      "title": "Quarterly Market Briefing — Q3 2026",
+      "snippet": "Macro desk quarterly outlook covering the rate path, sector rotation and three portfolio watch items for Q3.",
+      "views": 1843,
+      "updated": "2026-08-19",
+      "duration_seconds": 2847,
+      "meta_url": "https://raw.githubusercontent.com/wholetherapi/syndication-index-filesystem-youtube-transcript-2063-a7m2k9/main/meta/SYN-Q3-26-4471.json"
+    }
+  ]
+}
